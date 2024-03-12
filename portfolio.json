@@ -1,0 +1,44 @@
+[    
+    {
+        "id": 1,
+        "images":  "https://i.ibb.co/J34jbw1/depositphotos-166355024-stock-photo-desk-with-computer-and-pen.webp",
+        "Name": "project-01",
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": "https://afrin823.github.io/webdeveloper-portfolio/"
+    },
+    {
+        "id": 2,
+        "images":  "https://i.ibb.co/sVZxzfw/images.jpg",
+        "Name": "project-02",
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 3,
+        "images":  "https://i.ibb.co/GRCSprg/istockphoto-1305999733-612x612.jpg",
+        "Name": "project-03" ,
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 4,
+        "images":  "https://i.ibb.co/QHnJY9V/original-33f6c48dc6f199f2f4bbace2a12955dc.jpg",
+        "Name": "project-04",
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 5,
+        "images":  "https://i.ibb.co/k145pcq/web-design-2906159-640.jpg",
+        "Name": "project-05",
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": ""
+    },
+    {
+        "id": 6,
+        "images":  "https://i.ibb.co/RSBrSdY/web-design-website-homepage-ideas-260nw-369012689.webp",
+        "Name": "project-06",
+        "skills": ["HTML, CSS, tailwind, JavaScript, Bootstrap"],
+        "Details": ""
+    }
+]
